@@ -8,10 +8,10 @@
 | | |
 |---|---|
 | **Nama Lengkap** | Aulia Tauhid Akbar |
-| **NIM** | *(isi NIM kamu)* |
-| **Kelas** | *(isi kelas kamu)* |
+| **NIM** | *250401020136* |
+| **Kelas** | *Data Science - IF405* |
 | **Program Studi** | PJJ Informatika |
-| **Institusi** | *(isi nama kampus kamu)* |
+| **Institusi** | *Universitas Siber Asia* |
 
 ---
 
